@@ -1,2 +1,2 @@
 # CP-CC-Test
-Miscellaneous for Dapstone Project
+Miscellaneous for Capstone Project
