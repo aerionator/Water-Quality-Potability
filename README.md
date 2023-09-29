@@ -1,2 +1,1 @@
-# CP-CC-Test
-Miscellaneous for Capstone Project
+# Water Quality and Potability
