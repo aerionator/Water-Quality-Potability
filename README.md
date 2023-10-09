@@ -24,5 +24,5 @@ Kemudian buatkan 1 gsheet berisi
 Nim nama kelompok hasil akurasi dan link video
 
 # NB
-penjelasan arsitektur dl dan alasannya = anis
+Penjelasan arsitektur dl dan alasannya = anis <br>
 Penjelasan hasil akurasi dan prosesnya = salsa
