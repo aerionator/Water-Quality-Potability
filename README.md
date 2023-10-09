@@ -2,6 +2,7 @@
 - Anis Hanifa
 - Salsabila Syifa
 
+# Deskripsi Tugas
 kerjakan tugas berikut secara berkelompok 2 orang
 buatlah sebuah model deep learning  menggunakan python, di lokal saja (bukan colab)
 bisa mengikuti tutorial ini atau lainnya
@@ -22,7 +23,6 @@ Dari tugas sebelumnya, kalian buat video menjelaskan arsitektur deep learning yg
 Kemudian buatkan 1 gsheet berisi
 Nim nama kelompok hasil akurasi dan link video
 
-
-NB
+# NB
 penjelasan arsitektur dl dan alasannya = anis
 Penjelasan hasil akurasi dan prosesnya = salsa
