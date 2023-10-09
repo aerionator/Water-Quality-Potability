@@ -24,5 +24,6 @@ Kemudian buatkan 1 gsheet berisi
 Nim nama kelompok hasil akurasi dan link video
 
 # NB
+Link Drive yang berisikan video penjelasan dari tugas https://drive.google.com/drive/folders/1iXBUa4U7v6g-0mm8acl9SnA0F1EORQha?usp=drive_link <br>
 Penjelasan arsitektur dl dan alasannya = anis <br>
-Penjelasan hasil akurasi dan prosesnya = salsa
+Penjelasan hasil akurasi dan prosesnya = salsa <br>
